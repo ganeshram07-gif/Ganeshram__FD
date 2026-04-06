@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6cb8bbeb-61d6-4ef6-b458-4158b7b4b582" />demo for registration form : 
+demo for registration form : 
 <a href = "https://ganeshram07-gif.github.io/Ganeshram__FD/info.html"> Click here <a>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db90fbbd-e5b5-4452-b3f6-94ae5e4877ea" />
 demo for personal information : https://ganeshram07-gif.github.io/Ganeshram__FD/personalinfo.html
